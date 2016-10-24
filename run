@@ -1,2 +1,3 @@
 clear
 rustc s.rs && ./s
+rustc rusticdb.rs && ./rusticdb
