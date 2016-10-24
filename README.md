@@ -2,6 +2,19 @@
 
 This is a small rustic database, that is constructed in a plain a simple fashion. However, with big asprirations.
 
+- R: relationalish
+- U: uppendable
+- S: store
+- T: transactionalish
+- I: integritish
+- C: consistencish
+
+IAIAO? FarmDB?
+
+## State
+
+Useless...
+
 ## Goals
 
 - Learn rust
